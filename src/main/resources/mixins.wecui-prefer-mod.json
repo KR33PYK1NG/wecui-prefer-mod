@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.wecui-prefer-mod.refmap.json",
+    "package": "rmc.mixins.wecui_prefer_mod",
+    "mixins": [
+        "ForgePlatformMixin"
+    ]
+}
